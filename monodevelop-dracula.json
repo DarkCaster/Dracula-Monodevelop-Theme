@@ -25,7 +25,7 @@
 		{"name": "Underline(Hint)", "color":"#8AE233" },
 		{"name": "Quick Diff(Dirty)", "color":"#F1FA8C" },
 		{"name": "Quick Diff(Changed)", "color":"#A4E22E" },
-		{"name": "Brace Matching(Rectangle)", "color":"#6698CC", "secondcolor":"#AACBEE" },
+		{"name": "Brace Matching(Rectangle)", "color":"#264b73", "secondcolor":"#2a7dd5" },
 		{"name": "Usages(Rectangle)", "color":"#365363", "secondcolor":"#365363", "bordercolor":"#365363" },
 		{"name": "Changing usages(Rectangle)", "color":"#5a3f43", "secondcolor":"#5a3f43", "bordercolor":"#5a3f43" },
 		{"name": "Breakpoint Marker", "color":"#6F3535", "bordercolor":"#7A3939" },
